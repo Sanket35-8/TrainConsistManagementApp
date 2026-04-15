@@ -23,4 +23,3 @@ public class TrainConsistAppUC6 {
                     " | Capacity: " + entry.getValue());
         }
     }
-}
